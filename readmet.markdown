@@ -1,23 +1,17 @@
 # NEW YEAR COUNTDOWN
 
----
-
 The 'New Year Countdown' App is a screening of the days until New Year 2025.
 
 ## Preview
 
----
+![preview-img-project](./img/preview-screen.jpg)
 
 ## Link
 
----
-
 Visit the countdown app
-[countdown-app](#)
+[countdown-app](https://friendly-dusk-e852c7.netlify.app/)
 
 ## Code Snippet
-
----
 
 ```JavaScript
 # const dayEl = document.getElementById("day");
@@ -29,3 +23,7 @@ Visit the countdown app
 ```
 
 ## Author
+
+- Vanessa Krämer
+  - Aspiring Frontend Developer
+  - Developer Akademie Student
